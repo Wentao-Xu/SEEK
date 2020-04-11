@@ -1,4 +1,5 @@
 # SEEK Model
+Source code fot the ACL 2020 paper "SEEK: Segmented Embedding of Knowledge Graphs".
 
 ## Model Training
 ```

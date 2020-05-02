@@ -26,3 +26,14 @@ make && ./main -dataset DB100K -num_thread 24 -model_path seek.model
 |-model_path|Model path|
 |-lambda|L2 weight regularization penalty|
 |-lr|Init learning rate|
+
+## Cite
+If you find our work interesting, you can cite the paper as
+```
+@InProceedings{wentao2020seek,
+      author={Xu, Wentao and Zheng, Shun and He, Liang and Shao, Bin and Yin, Jian and Liu, Tie-Yan},
+      title={{SEEK: Segmented Embedding of Knowledge Graphs}},
+      booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
+      year={2020}
+      }
+```

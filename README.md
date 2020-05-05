@@ -1,5 +1,5 @@
-# [SEEK: Segmented Embedding of Knowledge Graphs](https://arxiv.org/abs/2005.00856)
-Source code fot the ACL 2020 paper "SEEK: Segmented Embedding of Knowledge Graphs".
+# SEEK Framework for Knowledge Graph Embeddding
+Source code fot the ACL 2020 paper "[SEEK: Segmented Embedding of Knowledge Graphs](https://arxiv.org/abs/2005.00856)".
 
 ## Model Training
 ```

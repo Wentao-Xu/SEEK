@@ -1,7 +1,7 @@
 # SEEK Framework for Knowledge Graph Embeddding
 Source code fot the ACL 2020 paper "[SEEK: Segmented Embedding of Knowledge Graphs](https://arxiv.org/abs/2005.00856)".
 
-## Model Training
+## Training
 ```
 make && ./main -dataset DB100K -num_thread 24 -model_path seek.model
 ```

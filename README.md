@@ -30,10 +30,20 @@ make && ./main -dataset DB100K -num_thread 24 -model_path seek.model
 ## Citation
 Please cite the following paper if you use this code in your work.
 ```
-@InProceedings{wentao2020seek,
-      author={Xu, Wentao and Zheng, Shun and He, Liang and Shao, Bin and Yin, Jian and Liu, Tie-Yan},
-      title={{SEEK: Segmented Embedding of Knowledge Graphs}},
-      booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
-      year={2020}
-      }
+@inproceedings{xu-etal-2020-seek,
+    title = "{SEEK}: Segmented Embedding of Knowledge Graphs",
+    author = "Xu, Wentao  and
+      Zheng, Shun  and
+      He, Liang  and
+      Shao, Bin  and
+      Yin, Jian  and
+      Liu, Tie-Yan",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.acl-main.358",
+    pages = "3888--3897",
+}
 ```

@@ -32,12 +32,7 @@ Please cite the following paper if you use this code in your work.
 ```
 @inproceedings{xu-etal-2020-seek,
     title = "{SEEK}: Segmented Embedding of Knowledge Graphs",
-    author = "Xu, Wentao  and
-      Zheng, Shun  and
-      He, Liang  and
-      Shao, Bin  and
-      Yin, Jian  and
-      Liu, Tie-Yan",
+    author = "Xu, Wentao and Zheng, Shun and He, Liang and Shao, Bin and Yin, Jian and Liu, Tie-Yan",
     booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
     month = jul,
     year = "2020",

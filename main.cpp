@@ -808,7 +808,7 @@ int main(int argc, char **argv) {
         neg_sample = 200;
         num_epoch = 100;
         eval_freq = 1;
-	num_seg = 8;
+        num_seg = 8;
     }
 
 	if ((i = ArgPos((char *)"-algorithm", argc, argv)) > 0)  algorithm = string(argv[i + 1]);
@@ -820,7 +820,6 @@ int main(int argc, char **argv) {
 	if ((i = ArgPos((char *)"-num_thread", argc, argv)) > 0)  num_thread = atoi(argv[i + 1]);
 	if ((i = ArgPos((char *)"-eval_freq", argc, argv)) > 0)  eval_freq = atoi(argv[i + 1]);
 	if ((i = ArgPos((char *)"-model_path", argc, argv)) > 0)  model_path = string(argv[i + 1]);
-;
 	if ((i = ArgPos((char *)"-prediction", argc, argv)) > 0)  prediction = true;
 	if ((i = ArgPos((char *)"-classification", argc, argv)) > 0)  classification = true;
 	if ((i = ArgPos((char *)"-num_seg", argc, argv)) > 0)  num_seg = atoi(argv[i + 1]);	
